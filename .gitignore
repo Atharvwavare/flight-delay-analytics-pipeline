@@ -1,0 +1,20 @@
+# Environment / secrets
+.env
+
+# Data (too large for Git)
+data/
+*.parquet
+*.csv
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
