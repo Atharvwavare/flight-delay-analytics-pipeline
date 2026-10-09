@@ -2,7 +2,7 @@
 
 An end-to-end data engineering pipeline analyzing **5.3 million U.S. flights in 2015**, built with PySpark, Delta Lake, AWS S3, and Databricks SQL.
 
-**[📊 Dashboard Screenshots](docs/screenshots/)** · **[🏗️ Architecture](docs/architecture.md)** · **[📖 Data Dictionary](docs/data_dictionary.md)** · **[📋 Pipeline Log](docs/pipeline_log.md)**
+**[📊 Dashboard Screenshots](/screenshots/)** · **[🏗️ Architecture](docs/architecture.md)** · **[📖 Data Dictionary](docs/data_dictionary.md)** · **[📋 Pipeline Log](docs/pipeline_log.md)**
 
 ---
 
