@@ -182,3 +182,24 @@ ORIGIN_CITY, ORIGIN_STATE, DESTINATION_CITY, DESTINATION_STATE
 **Status:** Repo is portfolio-ready. Next step is pushing to GitHub.
 
 **Next:** Step 10 — Push to GitHub + portfolio polish
+
+---
+
+## Step 10 — GitHub Push + Portfolio Polish (completed)
+
+**Repository:** https://github.com/YOUR-USERNAME/flight-delay-analytics-pipeline
+
+**Actions:**
+- Initialized local Git repo
+- Verified `.gitignore` excludes secrets, data, venv
+- Committed 40+ files
+- Created GitHub repo (public, no auto-README)
+- Pushed `main` branch
+- Added repo description + topics
+- Verified no secrets leaked (searched for `.env`, `AKIA`)
+- Confirmed Mermaid diagram renders on GitHub
+- Confirmed dashboard screenshot renders in README
+
+**Repo status:** Public, portfolio-ready.
+
+**Next (optional):** Step 11 — Airflow orchestration
